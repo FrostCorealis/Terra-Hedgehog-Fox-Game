@@ -45,12 +45,10 @@ function App() {
   return (
     <main className="App">
       <header>
-      <Link to="/" className="home-link">
         <div className="header-titles">
           <h1>🦊 Fox & Hedgehog 🦔</h1>
           <p>Something wild is happening in the woods.</p>
         </div>
-      </Link>
       <WalletAddress />
       </header>
 
