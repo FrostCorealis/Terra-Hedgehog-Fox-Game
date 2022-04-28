@@ -17,13 +17,13 @@ const Guide = () => {
         
         <div>
           <h3 className="help">
-            Eat as many apples as you can in 30 seconds.
+            You have 30 seconds. 🦔
           </h3>
           <h3 className="help">
-            Watch out for the fox!
+            Eat as many apples 🍎 & blueberries 🫐 as you can.
           </h3>
           <h3 className="help"> 
-            If you click him, he'll steal an apple.
+            Avoid the fox! 🦊
           </h3>
         </div>
       </div>
